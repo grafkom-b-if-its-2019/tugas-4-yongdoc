@@ -1,0 +1,15 @@
+body{
+    background: rgb(85, 249, 255);
+}
+
+.scene {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p{
+    color: rgb(27, 34, 134);
+    text-align: left;
+}
