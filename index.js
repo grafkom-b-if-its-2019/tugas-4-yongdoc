@@ -269,7 +269,7 @@
     gl.uniformMatrix4fv(pmLoc2, false, pm);
 
     BuildController();
-    var lightPosition = [triangleVertices[24], triangleVertices[25], triangleVertices[26]];
+    var lightPosition = [triangleVertices[15], triangleVertices[16], triangleVertices[17]];
     function render() {
 
       // Build Box
